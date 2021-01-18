@@ -1,4 +1,4 @@
-### :rocket: Hello!
+**:rocket: Hello!**
 
 I'm a full-stack developer & mechanical engineer who loves TypeScript & Scala (and I'll tolerate Python every so often).
 
