@@ -9,4 +9,4 @@ I work as a consultant in the financial sector at [Galatea Associates](http://ww
 [![Stack Overflow](stack-overflow.png)](https://stackoverflow.com/users/1243041/ian?tab=profile) &nbsp;
 [![Instagram](instagram.png)](https://www.instagram.com/iansan5653/) &nbsp;
 
-You can get in contact with me by [starting a new discussion](https://github.com/iansan5653/iansan5653/discussions/new) on my profile repo or by sending me an email.
+You can get in contact with me by [starting a new discussion](https://github.com/iansan5653/iansan5653/discussions/new) on my profile repo or by [sending me an email](mailto:iansan5653@gmail.com).
