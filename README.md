@@ -1,6 +1,6 @@
 **:rocket: Hello!**
 
-I'm a full-stack developer & mechanical engineer specializing in TypeScript & Scala (and I also work with Python occasionally 🐍).
+I'm a full-stack developer & mechanical engineer specializing in TypeScript & Scala (and I begrudgingly work with Python occasionally 🐍).
 
 Currently I work on the Planning and Tracking team here at GitHub, building the [new GitHub Projects](https://github.com/features/issues).
 
