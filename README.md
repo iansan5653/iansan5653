@@ -6,7 +6,7 @@ In the past I've worked on a wide range of projects in a diverse variety of tech
 
 I graduated from the University of South Florida in 2020 with a degree in mechanical engineering, where I spent most of my time [building rockets](https://instagram.com/usfsoar) 🚀.
 
-⛵ In my free time I sail/work (mostly work 😄) on my 40-year-old sailboat here in St. Petersburg, FL ☀️.
+⛵ In my free time I sail/work (mostly work 😄) on my 40-year-old sailboat here in St. Petersburg, FL ☀️. Occasionally I do [photography 📷](https://instagram.com/iansan5653) and [make cocktails 🍸](https://instagram.com/fiddle.leaf.cocktails).
 
 ---
 
