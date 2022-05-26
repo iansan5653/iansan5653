@@ -1,8 +1,8 @@
 **👋 Hello!**
 
-I'm currently a front-end web developer working on the Planning & Tracking team here at GitHub :octocat:, building the [new GitHub Issues](https://github.com/features/issues).
+I'm a software engineer working on the Planning & Tracking team right here at GitHub :octocat:, building the [new GitHub Issues](https://github.com/features/issues).
 
-In the past I've worked on a wide range of projects in a diverse variety of tech stacks. I mostly focus on front-end web development (in vanilla JS, TypeScript, React, and Angular) but I've also done server-side work (in Java and Scala), [Windows applications](https://github.com/iansan5653/open-mcr), desktop software plugins, and even embedded systems.
+I mostly focus on front-end web development (in vanilla JS, TypeScript, React, and Angular) but I've also done server-side work (in Java and Scala), [Windows applications](https://github.com/iansan5653/open-mcr), desktop software plugins, and even embedded systems.
 
 I graduated from the University of South Florida in 2020 with a degree in mechanical engineering, where I spent most of my time [building rockets](https://instagram.com/usfsoar) 🚀.
 
