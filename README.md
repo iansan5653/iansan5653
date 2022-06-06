@@ -1,3 +1,5 @@
+![Close-up photo of a sailboat that is about 40 ft long. The sailboat is moving at high speed, the sails are full, and the crew is having fun.](./cover.jpg)
+
 **👋 Hello!**
 
 I'm a software engineer working on the Planning & Tracking team right here at GitHub :octocat:, building the [new GitHub Issues](https://github.com/features/issues).
@@ -6,7 +8,7 @@ I mostly focus on front-end web development (in vanilla JS, TypeScript, React, a
 
 I graduated from the University of South Florida in 2020 with a degree in mechanical engineering, where I spent most of my time [building rockets](https://instagram.com/usfsoar) 🚀.
 
-⛵ In my free time I race sailboats here in Tampa Bay ☀️. Occasionally I [take pictures 📷](https://instagram.com/iansan5653) and [make cocktails 🍸](https://instagram.com/fiddle.leaf.cocktails).
+In my free time I race sailboats here in Tampa Bay ⛵. Occasionally I [take pictures 📷](https://instagram.com/iansan5653) and [make cocktails 🍸](https://instagram.com/fiddle.leaf.cocktails).
 
 ---
 
