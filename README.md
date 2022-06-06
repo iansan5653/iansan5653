@@ -1,4 +1,4 @@
-![Close-up photo of a sailboat that is about 40 ft long. The sailboat is moving at high speed, the sails are full, and the crew is having fun.](./cover.jpg)
+![Photo of the smoke and fire from a small rocket launching in front of a forest.](./cover.jpg)
 
 **👋 Hello!**
 
