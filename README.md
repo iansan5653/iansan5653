@@ -8,7 +8,7 @@ I mostly focus on front-end web development (in vanilla JS, TypeScript, React, a
 
 I graduated from the University of South Florida in 2020 with a degree in mechanical engineering, where I spent most of my time [building rockets](https://instagram.com/usfsoar) 🚀.
 
-In my free time I race sailboats here in Tampa Bay ⛵. Occasionally I [take pictures 📷](https://instagram.com/iansan5653) and [make cocktails 🍸](https://instagram.com/fiddle.leaf.cocktails).
+In my free time I race sailboats in Tampa Bay ⛵. Occasionally I [take pictures 📷](https://instagram.com/iansan5653) and [make cocktails 🍸](https://instagram.com/fiddle.leaf.cocktails).
 
 ---
 
