@@ -12,9 +12,4 @@ In my free time I race sailboats in Tampa Bay ⛵.
 
 ---
 
-[![LinkedIn](linkedin.png)](https://linkedin.com/in/ian-sanders) &nbsp;
-[![NPM](npm.png)](https://www.npmjs.com/~iansan5653) &nbsp;
-[![Stack Overflow](stack-overflow.png)](https://stackoverflow.com/users/1243041/ian?tab=profile) &nbsp;
-[![Instagram](instagram.png)](https://www.instagram.com/iansan5653/) &nbsp;
-
-:speech_balloon: You can contact me by [starting a new discussion](https://github.com/iansan5653/iansan5653/discussions/new) on my profile repo or by [sending me an email](mailto:iansan5653@gmail.com).
+:speech_balloon: You can get in touch with me by [starting a new discussion](https://github.com/iansan5653/iansan5653/discussions/new) on my profile repo or by [sending me an email](mailto:iansan5653@gmail.com).
