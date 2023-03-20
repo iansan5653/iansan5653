@@ -6,7 +6,7 @@ I'm a software engineer working on the Planning & Tracking team right here at Gi
 
 I mostly focus on front-end web development (in vanilla JS, TypeScript, React, and Angular) but I've also done server-side work (in Java and Scala), [Windows applications](https://github.com/iansan5653/open-mcr), desktop software plugins, and even embedded systems.
 
-I graduated from the University of South Florida in 2020 with a degree in mechanical engineering, where I spent most of my time [building rockets](https://instagram.com/usfsoar) 🚀.
+I graduated from USF in 2020 with a degree in mechanical engineering, where I spent way too much time [building rockets](https://instagram.com/usfsoar) 🚀.
 
 In my free time I race sailboats in Tampa Bay ⛵.
 
