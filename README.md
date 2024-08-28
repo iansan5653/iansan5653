@@ -1,4 +1,6 @@
-![Photo of the smoke and fire from a small rocket launching in front of a forest.](./cover.jpg)
+<!--![Photo of the smoke and fire from a small rocket launching in front of a forest.](./cover.jpg)-->
+
+![meme of poorly drawn amazed men pointing at the iansan5653 username](./whoa-its-me.png)
 
 **👋 Hello!**
 
@@ -8,7 +10,7 @@ I mostly focus on front-end web development (in vanilla JS, TypeScript, React, a
 
 I graduated from USF in 2020 with a degree in mechanical engineering, where I spent way too much of my time [building rockets](https://instagram.com/usfsoar) 🚀.
 
-In my free time I go to concerts, build stuff, and race sailboats in Tampa Bay ⛵.
+In my free time I work on and race sailboats in Tampa Bay ⛵.
 
 ---
 
