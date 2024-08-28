@@ -1,6 +1,8 @@
 <!--![Photo of the smoke and fire from a small rocket launching in front of a forest.](./cover.jpg)-->
 
-<div align="center"><img alt="meme of poorly drawn amazed men pointing at the iansan5653 username" src="./whoa-its-me.png" /></div>
+<div align="center"><img alt="soyboy meme: poorly drawn amazed men pointing in awe at the iansan5653 username" src="./whoa-its-me.png" /></div>
+
+<br />
 
 **👋 Hello!**
 
