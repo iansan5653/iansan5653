@@ -1,6 +1,6 @@
 <!--![Photo of the smoke and fire from a small rocket launching in front of a forest.](./cover.jpg)-->
 
-![meme of poorly drawn amazed men pointing at the iansan5653 username](./whoa-its-me.png)
+<div align="center"><img alt="meme of poorly drawn amazed men pointing at the iansan5653 username" src="./whoa-its-me.png" /></div>
 
 **👋 Hello!**
 
