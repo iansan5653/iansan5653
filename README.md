@@ -14,4 +14,4 @@ In my free time I work on and race sailboats in Tampa Bay ⛵.
 
 ---
 
-:speech_balloon: You can get in touch with me by [starting a new discussion](https://github.com/iansan5653/iansan5653/discussions/new) on my profile repo or by [sending me an email](mailto:iansan5653@gmail.com).
+:speech_balloon: You can get in touch with me by [starting a new discussion](https://github.com/iansan5653/iansan5653/discussions/new) on my profile repo.
