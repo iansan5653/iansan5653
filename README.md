@@ -10,8 +10,4 @@ I mostly focus on front-end web development (in vanilla JS, TypeScript, React, a
 
 I graduated from USF in 2020 with a degree in mechanical engineering, where I spent way too much of my time [building rockets](https://github.com/usfsoar) 🚀.
 
-In my free time I work on and race sailboats in Tampa Bay ⛵.
-
----
-
-:speech_balloon: You can get in touch with me by [starting a new discussion](https://github.com/iansan5653/iansan5653/discussions/new) on my profile repo.
+In my free time I mess about with sailboats ⛵.
